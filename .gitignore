@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# MediaPipe model binary (auto-downloaded on first run)
+*.task
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE & editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
+.DS_Store
